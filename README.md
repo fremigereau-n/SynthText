@@ -1,6 +1,8 @@
 # SynthText
 Code for generating synthetic text images as described in ["Synthetic Data for Text Localisation in Natural Images", Ankush Gupta, Andrea Vedaldi, Andrew Zisserman, CVPR 2016](http://www.robots.ox.ac.uk/~vgg/data/scenetext/).
 
+Modified by fremigereau
+
 
 **Synthetic Scene-Text Image Samples**
 ![Synthetic Scene-Text Samples](samples.png "Synthetic Samples")
