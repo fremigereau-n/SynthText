@@ -16,7 +16,7 @@ import traceback, sys
 from collections import Counter
 import sys
 
-img_folder= '../data/images/images/'
+img_folder= '../AdaBins/test_imgs/'
 output_file= sys.argv[2]
 img=sys.argv[1] 
 image = cv2.imread(img_folder+img)
