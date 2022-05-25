@@ -614,7 +614,7 @@ class RendererV3(object):
             # find the placement mask and homographies:
             regions = self.filter_for_placement(xyz,seg,regions)
 
-            # finally place some text:
+            # finally place some text:f
             nregions = len(regions['place_mask'])
             if nregions < 1: # no good region to place text on
                 return []
